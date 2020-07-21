@@ -1,0 +1,555 @@
+D:\Auto-Atendimento\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+D:\Auto-Atendimento\obj\Debug\Auto_Atendimento.frmAtendente.resources
+D:\Auto-Atendimento\obj\Debug\Auto_Atendimento.frmPrincipal.resources
+D:\Auto-Atendimento\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+D:\Auto-Atendimento\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+D:\Auto-Atendimento\obj\Debug\Auto-Atendimento.exe
+D:\Auto-Atendimento\obj\Debug\Auto-Atendimento.pdb
+D:\Auto-Atendimento\bin\Debug\Auto-Atendimento.exe.config
+D:\Auto-Atendimento\bin\Debug\Auto-Atendimento.exe
+D:\Auto-Atendimento\bin\Debug\Auto-Atendimento.pdb
+D:\Auto-Atendimento\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+D:\Arquivos\Projetos\TCC\bin\Debug\Auto-Atendimento.exe.config
+D:\Arquivos\Projetos\TCC\bin\Debug\Auto-Atendimento.exe
+D:\Arquivos\Projetos\TCC\bin\Debug\Auto-Atendimento.pdb
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.frmAtendente.resources
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.frmPrincipal.resources
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.exe
+D:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.pdb
+E:\Arquivos\Projetos\TCC\bin\Debug\Auto-Atendimento.exe.config
+E:\Arquivos\Projetos\TCC\bin\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCC\bin\Debug\Auto-Atendimento.pdb
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.frmAtendente.resources
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.frmPrincipal.resources
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCC\obj\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Cliente_Inicio.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Cliente_Lanche_Pronto.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Cliente_Montar_Lanche.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_S.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XBa.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XBu.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XE.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XF.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XS.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmAtendente.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmInicial.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.FrmObrigado.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmGerente.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto-Atendimento.exe
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Auto-Atendimento.exe.config
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Auto-Atendimento.exe
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\EnvDTE.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\stdole.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\Microsoft.MSXML.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto-Atendimento.csproj.CopyComplete
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.Relatorio.resources
+C:\projetos(senai)\TCC-master-Completo\obj\Debug\Auto_Atendimento.RelIngredientes.resources
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Auto-Atendimento.exe.config
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Auto-Atendimento.pdb
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\EnvDTE.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\stdole.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\Microsoft.MSXML.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Cliente_Inicio.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Cliente_Lanche_Pronto.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Cliente_Montar_Lanche.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_S.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XBa.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XBu.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XE.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XF.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Confirma_XS.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmAtendente.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmInicial.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.FrmObrigado.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.frmGerente.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.RelIngredientes.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto_Atendimento.Relatorio.resources
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto-Atendimento.csproj.CopyComplete
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCC-master-Completo\obj\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC-master\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\projetos(senai)\TCC-master\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\projetos(senai)\TCC-master\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\projetos(senai)\TCC-master\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Auto-Atendimento.exe.config
+C:\projetos(senai)\TCC-master\bin\Debug\Auto-Atendimento.exe
+C:\projetos(senai)\TCC-master\bin\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\projetos(senai)\TCC-master\bin\Debug\EnvDTE.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\projetos(senai)\TCC-master\bin\Debug\stdole.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\projetos(senai)\TCC-master\bin\Debug\Microsoft.MSXML.dll
+C:\projetos(senai)\TCC-master\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC-master\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Cliente_Inicio.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Cliente_Lanche_Pronto.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Cliente_Montar_Lanche.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Confirma_S.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Confirma_XBa.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Confirma_XBu.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Confirma_XE.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Confirma_XF.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Confirma_XS.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.frmAtendente.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.frmInicial.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.FrmObrigado.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.frmGerente.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.RelIngredientes.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.Relatorio.resources
+C:\projetos(senai)\TCC-master\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+C:\projetos(senai)\TCC-master\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+C:\projetos(senai)\TCC-master\obj\Debug\Auto-Atendimento.csproj.CopyComplete
+C:\projetos(senai)\TCC-master\obj\Debug\Auto-Atendimento.exe
+C:\projetos(senai)\TCC-master\obj\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC-master\obj\Debug\Auto_Atendimento.RelLucro.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe.config
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Auto-Atendimento.pdb
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\EnvDTE.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\stdole.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Microsoft.MSXML.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Inicio.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Lanche_Pronto.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Montar_Lanche.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_S.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XBa.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XBu.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XE.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XF.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XS.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmAtendente.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmInicial.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.FrmObrigado.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmGerente.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.RelIngredientes.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.Relatorio.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto_Atendimento.RelLucro.resources
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.CopyComplete
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.pdb
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe.manifest
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\bin\Debug\Auto-Atendimento.application
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.exe.manifest
+E:\Arquivos\Projetos\TCCNOVO\TCC-master - Copia\obj\Debug\Auto-Atendimento.application
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe.config
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe.manifest
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.application
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.pdb
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\EnvDTE.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\stdole.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\Microsoft.MSXML.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Inicio.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Lanche_Pronto.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Montar_Lanche.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_S.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XBa.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XBu.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XE.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XF.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XS.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmAtendente.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmInicial.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.FrmObrigado.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmGerente.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.RelIngredientes.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Relatorio.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.RelLucro.resources
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.exe.manifest
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.application
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.CopyComplete
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.exe
+E:\Arquivos\Projetos\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe.config
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe.manifest
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.application
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.exe
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Auto-Atendimento.pdb
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\EnvDTE.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\stdole.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\Microsoft.MSXML.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csprojAssemblyReference.cache
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Inicio.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Lanche_Pronto.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Cliente_Montar_Lanche.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_S.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XBa.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XBu.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XE.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XF.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Confirma_XS.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmAtendente.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmCozinheiro.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmInicial.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.FrmObrigado.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.frmGerente.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Properties.Resources.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.RelIngredientes.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.Relatorio.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto_Atendimento.RelLucro.resources
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.GenerateResource.cache
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.CoreCompileInputs.cache
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.exe.manifest
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.application
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.csproj.CopyComplete
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.exe
+C:\projetos(senai)\TCC\TCC-master - Copia\obj\Debug\Auto-Atendimento.pdb
