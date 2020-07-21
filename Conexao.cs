@@ -10,7 +10,7 @@ namespace Auto_Atendimento
 {
     class Conexao
     {
-        private static string str = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename='E:\\Arquivos\\Projetos\\TCC\\TCC-master - Copia\\Estoque.mdf';Integrated Security=True;Connect Timeout=30";
+        private static string str = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename='E:\\Arquivos\\Projetos\\TCC1\\Estoque.mdf';Integrated Security=True;Connect Timeout=30";
         private static SqlConnection con = null;
          public static SqlConnection OC()
         {
