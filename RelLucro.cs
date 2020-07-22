@@ -26,7 +26,7 @@ namespace Auto_Atendimento
         public void CarregaLista()
         {
             Lucro = new List<Lucro>();
-            String query = "SELECT preco FROM Pedido_Cliente";
+            String query = "SELECT preco FROM Pedido_Finalizado";
             SqlCommand cmd = new SqlCommand(query, con);
             Conexao.OC();
             SqlDataReader rd = cmd.ExecuteReader();

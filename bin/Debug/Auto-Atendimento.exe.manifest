@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Auto-Atendimento.exe" size="4306944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Auto-Atendimento.exe" size="4307456">
       <assemblyIdentity name="Auto-Atendimento" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KpzGtqEjWxVB+lrCtQLuSyLRMLrHTeD0hrGlRi0YspE=</dsig:DigestValue>
+        <dsig:DigestValue>lbuOol+8JCDpYXY3pXW+NFp5DSy7NxFbWtvCnTakDAU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

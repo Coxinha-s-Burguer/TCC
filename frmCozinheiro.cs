@@ -127,7 +127,7 @@ namespace Auto_Atendimento
                         MessageBox.Show(rd["nome"].ToString().Trim(), "Ingredientes", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                     cmd.Dispose();
-                    rd.Dispose();
+                    rd.Close();
                 }
             }
             catch (Exception er)

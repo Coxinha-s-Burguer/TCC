@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.ComponentModel.Design;
 
 namespace Auto_Atendimento
 {
@@ -27,11 +28,10 @@ namespace Auto_Atendimento
 
         public void CarregaLista()
         {
-            try
-            {
                 Lanches = new List<Lanche>();
                 String query = "SELECT * FROM Pedido_Cliente";
                 SqlCommand cmd = new SqlCommand(query, con);
+                cmd.CommandType = CommandType.Text;
                 Conexao.OC();
                 SqlDataReader rd = cmd.ExecuteReader();
                 int count = query.Count();
@@ -40,7 +40,6 @@ namespace Auto_Atendimento
                 {
                     if (rd.Read())
                     {
-
                         id = Convert.ToInt32(rd["Id"].ToString().Trim());
                         if (rd["nome"].ToString().Trim().Length > 9)
                         {
@@ -58,16 +57,9 @@ namespace Auto_Atendimento
                         Lanches.Add(new Lanche(id, nome, preco, batata, refrigerante, status, tempo)); //Adiciona todos os valores a lista
                     }
                     i++;
-                    cmd.Dispose();
                 }
-                rd.Dispose();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            
-            
+                cmd.Dispose();
+                rd.Close();
         }
 
         void Imprimir(List<Lanche> Lanches, string info)
@@ -140,21 +132,42 @@ namespace Auto_Atendimento
         private void lbPedido_Click(object sender, EventArgs e)
         {
             timer1.Stop();
-            
             try
-            {
-                String query = "DELETE FROM Pedido_Cliente WHERE id = @id";
+            { 
+                int idSelecionado = Convert.ToInt32(lbPedido.SelectedItem.ToString().Remove(2, (lbPedido.SelectedItem.ToString().Length - 2)).Trim());
+                //Deleta da tabela de pedidos
+                String query = "DELETE FROM Pedido_Cliente WHERE Id = @id";
                 SqlCommand cmd = new SqlCommand(query, con);
                 cmd.CommandType = CommandType.Text;
                 if ((lbPedido.SelectedIndex - 2) > 0)
                 {
-                    int count = lbPedido.SelectedItem.ToString().Length;
-                    int id = Convert.ToInt32(lbPedido.SelectedItem.ToString().Remove(2, (count - 2)).Trim());
-                    DialogResult _ = MessageBox.Show("Realizar forma de pagamento do lanche: " + lbPedido.SelectedItem.ToString().Remove(2, (count - 2)).Trim() + "?", "Pagamento", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    DialogResult _ = MessageBox.Show("Realizar forma de pagamento do lanche: " + lbPedido.SelectedItem.ToString().Remove(2, (lbPedido.SelectedItem.ToString().Length - 2)).Trim() + "?", "Pagamento", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                     if (_ == DialogResult.Yes)
                     {
-                        cmd.Parameters.AddWithValue("@id", id);
+                        //Procura o lanche na tabela de pedidos
+                        String pesquisa = "SELECT nome, preco, batata, refri FROM Pedido_Cliente WHERE Id = @id";
+                        SqlCommand command = new SqlCommand(pesquisa, con);
+                        command.CommandType = CommandType.Text;
+                        command.Parameters.AddWithValue("@id", SqlDbType.Int).Value = idSelecionado;
                         Conexao.OC();
+                        SqlDataReader rd = command.ExecuteReader();
+                        if (rd.Read())
+                        {
+                            //insere na tabela de pedidos finalizados
+                            String inserir = "INSERT INTO Pedido_Finalizado(Id, nome, preco, batata, refri) VALUES(@id, @nome, @preco, @batata, @refri)";
+                            SqlCommand cmdinserir = new SqlCommand(inserir, con);
+                            cmdinserir.CommandType = CommandType.Text;
+                            cmdinserir.Parameters.AddWithValue("@id", SqlDbType.Int).Value = idSelecionado;
+                            cmdinserir.Parameters.AddWithValue("@nome", SqlDbType.NChar).Value = rd["nome"].ToString().Trim();
+                            cmdinserir.Parameters.AddWithValue("@preco", SqlDbType.NChar).Value = rd["preco"].ToString().Trim();
+                            cmdinserir.Parameters.AddWithValue("@batata", SqlDbType.NChar).Value = rd["batata"].ToString().Trim();
+                            cmdinserir.Parameters.AddWithValue("refri", SqlDbType.NChar).Value = rd["refri"].ToString().Trim();
+                            rd.Close();
+                            cmdinserir.ExecuteNonQuery();
+                            cmdinserir.Dispose();
+                            command.Dispose();
+                        }
+                        cmd.Parameters.AddWithValue("@id", SqlDbType.Int).Value = idSelecionado;
                         cmd.ExecuteNonQuery();
                         Conexao.FC();
                         MessageBox.Show("Pagamento realizado com sucesso!", "Pagamento", MessageBoxButtons.OK, MessageBoxIcon.Information);

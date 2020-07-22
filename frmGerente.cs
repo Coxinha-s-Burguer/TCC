@@ -210,7 +210,7 @@ namespace Auto_Atendimento
         public void TiraLanches()
         {
             SqlConnection con = Conexao.OC();
-            string vai = "DELETE FROM Pedido_Cliente";
+            string vai = "DELETE FROM Pedido_Finalizado";
             SqlCommand cmd = new SqlCommand(vai, con);
             cmd.CommandType = CommandType.Text;
             Conexao.OC();
@@ -242,7 +242,6 @@ namespace Auto_Atendimento
                 TiraLanches();
                 ResetaGastos();
             }
-
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)

@@ -30,7 +30,7 @@ namespace Auto_Atendimento
         public void CarregaLista()
         {
             Lanches = new List<Lanche>();
-            String query = "SELECT * FROM Pedido_Cliente";
+            String query = "SELECT * FROM Pedido_Finalizado";
             SqlCommand cmd = new SqlCommand(query, con);
             Conexao.OC();
             SqlDataReader rd = cmd.ExecuteReader();
