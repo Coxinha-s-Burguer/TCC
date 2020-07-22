@@ -53,10 +53,7 @@ namespace Auto_Atendimento
             da.Fill(ingrediente);
             dgvCozinheiro.DataSource = ingrediente;
             Conexao.FC();
-            foreach (DataGridViewRow dr in dgvCozinheiro.Rows)
-            {
-
-            }
+            cmd.Dispose();
         }
 
         public frmCozinheiro()
@@ -95,6 +92,7 @@ namespace Auto_Atendimento
                         Conexao.FC();
                         dgvCozinheiro.Columns.Remove("pedido");
                         Verifica();
+                        cmd.Dispose();
                     }
                 }
                 if (cell.Trim() == "Finalizar Pedido" && e.ColumnIndex == 7)
@@ -114,6 +112,7 @@ namespace Auto_Atendimento
                         CarregaDgvCozinheiro();
                         dgvCozinheiro.Columns.Remove("pedido");
                         Verifica();
+                        cmd.Dispose();
                     }
                 }
                 if (cell.Trim().Length > 9 && e.ColumnIndex == 1)
@@ -127,6 +126,8 @@ namespace Auto_Atendimento
                     {
                         MessageBox.Show(rd["nome"].ToString().Trim(), "Ingredientes", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
+                    cmd.Dispose();
+                    rd.Dispose();
                 }
             }
             catch (Exception er)

@@ -57,6 +57,7 @@ namespace Auto_Atendimento
                 }
                 i++;
             }
+            cmd.Dispose();
             rd.Dispose();
         }
 
@@ -130,11 +131,12 @@ namespace Auto_Atendimento
         private void lbPedido_Click(object sender, EventArgs e)
         {
             timer1.Stop();
-            String query = "DELETE FROM Pedido_Cliente WHERE id = @id";
-            SqlCommand cmd = new SqlCommand(query, con);
-            cmd.CommandType = CommandType.Text;
+            
             try
             {
+                String query = "DELETE FROM Pedido_Cliente WHERE id = @id";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.CommandType = CommandType.Text;
                 if ((lbPedido.SelectedIndex - 2) > 0)
                 {
                     int count = lbPedido.SelectedItem.ToString().Length;
@@ -151,6 +153,7 @@ namespace Auto_Atendimento
                         Imprimir(Lanches, "Mostrando Lanches");
                     }
                 }
+                cmd.Dispose();
             }
             catch (Exception ex)
             {
@@ -175,6 +178,7 @@ namespace Auto_Atendimento
                 Conexao.OC();
                 cmd.ExecuteNonQuery();
                 Conexao.FC();
+                cmd.Dispose();
             }
             catch (Exception ex)
             {
