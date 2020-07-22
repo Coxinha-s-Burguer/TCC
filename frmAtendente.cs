@@ -27,38 +27,47 @@ namespace Auto_Atendimento
 
         public void CarregaLista()
         {
-            Lanches = new List<Lanche>();
-            String query = "SELECT * FROM Pedido_Cliente";
-            SqlCommand cmd = new SqlCommand(query, con);
-            Conexao.OC();
-            SqlDataReader rd = cmd.ExecuteReader();
-            int count = query.Count();
-            int i = 0;
-            while (i <= count)
+            try
             {
-                if (rd.Read())
+                Lanches = new List<Lanche>();
+                String query = "SELECT * FROM Pedido_Cliente";
+                SqlCommand cmd = new SqlCommand(query, con);
+                Conexao.OC();
+                SqlDataReader rd = cmd.ExecuteReader();
+                int count = query.Count();
+                int i = 0;
+                while (i <= count)
                 {
+                    if (rd.Read())
+                    {
 
-                    id = Convert.ToInt32(rd["Id"].ToString().Trim());
-                    if (rd["nome"].ToString().Trim().Length > 9)
-                    {
-                        nome = "Criado";
+                        id = Convert.ToInt32(rd["Id"].ToString().Trim());
+                        if (rd["nome"].ToString().Trim().Length > 9)
+                        {
+                            nome = "Criado";
+                        }
+                        else
+                        {
+                            nome = rd["nome"].ToString().Trim();
+                        }
+                        preco = Convert.ToDecimal(rd["preco"].ToString().Trim());
+                        batata = rd["batata"].ToString().Trim();
+                        refrigerante = rd["refri"].ToString().Trim();
+                        status = rd["status"].ToString().Trim();
+                        tempo = Convert.ToInt32(rd["tempo"].ToString().Trim());
+                        Lanches.Add(new Lanche(id, nome, preco, batata, refrigerante, status, tempo)); //Adiciona todos os valores a lista
                     }
-                    else
-                    {
-                        nome = rd["nome"].ToString().Trim();
-                    }
-                    preco = Convert.ToDecimal(rd["preco"].ToString().Trim());
-                    batata = rd["batata"].ToString().Trim();
-                    refrigerante = rd["refri"].ToString().Trim();
-                    status = rd["status"].ToString().Trim();
-                    tempo = Convert.ToInt32(rd["tempo"].ToString().Trim());
-                    Lanches.Add(new Lanche(id, nome, preco, batata, refrigerante, status, tempo)); //Adiciona todos os valores a lista
+                    i++;
+                    cmd.Dispose();
                 }
-                i++;
+                rd.Dispose();
             }
-            cmd.Dispose();
-            rd.Dispose();
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            
+            
         }
 
         void Imprimir(List<Lanche> Lanches, string info)
@@ -170,6 +179,7 @@ namespace Auto_Atendimento
 
         private void timer2_Tick(object sender, EventArgs e)
         {
+            timer1.Stop();
             try
             {
                 String query = "UPDATE Pedido_Cliente SET tempo -= 1";
@@ -184,6 +194,7 @@ namespace Auto_Atendimento
             {
                 MessageBox.Show(ex.Message);
             }
+            timer1.Start();
         }
     }
 }
